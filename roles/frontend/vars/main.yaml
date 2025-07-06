@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.chepas.site
+USER_HOST: user.chepas.site
+CART_HOST: cart.chepas.site
+SHIPPING_HOST: shipping.chepas.site
+PAYMENT_HOST: payment.chepas.site

@@ -1,0 +1,5 @@
+CART_HOST: cart.chepas.site
+USER_HOST: user.chepas.site
+RABBITMQ_HOST: rabbitmq.chepas.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
