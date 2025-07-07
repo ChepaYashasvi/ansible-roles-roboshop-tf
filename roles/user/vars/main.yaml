@@ -1,2 +1,2 @@
-REDIS_HOST: redis.chepas.site
-MONGODB_HOST: mongodb.chepas.site
+REDIS_HOST: redis-{{ env }}.chepas.site
+MONGODB_HOST: mongodb-{{ env }}.chepas.site

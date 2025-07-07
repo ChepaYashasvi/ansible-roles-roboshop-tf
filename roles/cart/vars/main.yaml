@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.chepas.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.chepas.site
 REDIS_HOST: redis.chepas.site
