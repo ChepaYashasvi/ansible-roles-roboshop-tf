@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.chepas.site
-USER_HOST: user.chepas.site
-CART_HOST: cart.chepas.site
-SHIPPING_HOST: shipping.chepas.site
-PAYMENT_HOST: payment.chepas.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.chepas.site
+USER_HOST: user.backend-{{ env }}.chepas.site
+CART_HOST: cart.backend-{{ env }}.chepas.site
+SHIPPING_HOST: shipping.backend-{{ env }}.chepas.site
+PAYMENT_HOST: payment.backend-{{ env }}.chepas.site
